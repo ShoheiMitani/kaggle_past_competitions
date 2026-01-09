@@ -23,5 +23,5 @@ unzip loan_approval_prediction/data/playground-series-s4e10.zip -d loan_approval
 ## Run sample model notebook
 
 ```bash
-uv run marimo edit loan_approval_prediction/sample_nb.py
+uv run marimo edit loan_approval_prediction
 ```
